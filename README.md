@@ -126,7 +126,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ArshadForcebolt/ArshadForcebolt/output/snake.svg" alt="Snake animation" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
